@@ -11421,19 +11421,19 @@
             ]
         },
         {
-            "title": "Bloomkeeper",
+            "title": "BloomGauge",
             "short_description": "Menu bar dashboard and model optimizer for Darkbloom providers, with live earnings, network demand and automatic model switching.",
             "categories": [
                 "menubar",
                 "utilities"
             ],
-            "repo_url": "https://github.com/cookder/bloomkeeper",
-            "icon_url": "https://bloomkeeper.io/press/bloomkeeper-icon-512.png",
+            "repo_url": "https://github.com/cookder/bloomgauge",
+            "icon_url": "https://bloomgauge.io/press/bloomgauge-icon-512.png",
             "screenshots": [
-                "https://bloomkeeper.io/press/1-dashboard.jpg",
-                "https://bloomkeeper.io/press/2-optimizer.jpg"
+                "https://bloomgauge.io/press/1-dashboard.jpg",
+                "https://bloomgauge.io/press/2-optimizer.jpg"
             ],
-            "official_site": "https://bloomkeeper.io",
+            "official_site": "https://bloomgauge.io",
             "languages": [
                 "python",
                 "typescript",
